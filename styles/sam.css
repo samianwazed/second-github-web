@@ -1,0 +1,12 @@
+div{
+    color: black;
+    background-color:bisque;
+    border: 15px;
+    border-radius: 10px;
+    border-style: groove ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 , h3{
+    color: rgb(232, 231, 201);
+    background-color: brown
+}
